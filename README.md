@@ -33,3 +33,20 @@ generate actionable business insights.
 ---
 
 ## 📂 Project Structure
+/walmart-sales-powerbi-project
+|-- dashboard.pbix
+|-- screenshots/
+|-- README.md
+
+---
+
+## 🛠 Tools Used
+- Power BI Desktop
+- PostgreSQL
+- DAX
+- Data Modeling (Star Schema)
+
+---
+
+## 📈 Author
+Likhith Yedida  
